@@ -1,0 +1,7 @@
+C:\CURSO CSHARP\ByteBank\06-ByteBank\bin\Debug\06-ByteBank.exe.config
+C:\CURSO CSHARP\ByteBank\06-ByteBank\bin\Debug\06-ByteBank.exe
+C:\CURSO CSHARP\ByteBank\06-ByteBank\bin\Debug\06-ByteBank.pdb
+C:\CURSO CSHARP\ByteBank\06-ByteBank\obj\Debug\06-ByteBank.csproj.AssemblyReference.cache
+C:\CURSO CSHARP\ByteBank\06-ByteBank\obj\Debug\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\CURSO CSHARP\ByteBank\06-ByteBank\obj\Debug\06-ByteBank.exe
+C:\CURSO CSHARP\ByteBank\06-ByteBank\obj\Debug\06-ByteBank.pdb
